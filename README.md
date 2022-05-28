@@ -1,9 +1,8 @@
-### Hi there 👋
+![Banner](https://cardivo.vercel.app/api?name=BayuDC&description=Hello,%20i%20am%20a%20backend%20web%20developer%20%F0%9F%98%85%E2%98%9D%EF%B8%8F&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62124037%3Fv%3D4&pattern=bubbles&backgroundColor=%23334257&colorPattern=%23476072&fontColor=%23EEEEEE&opacity=0.6)
 
 <!--
-**BayuDC/BayuDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
