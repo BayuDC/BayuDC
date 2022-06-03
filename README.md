@@ -1,5 +1,9 @@
 ![Banner](https://cardivo.vercel.app/api?name=BayuDC&description=Hello,%20i%20am%20a%20backend%20web%20developer%20%F0%9F%91%8B&image=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F62124037%3Fv%3D4&pattern=bubbles&backgroundColor=%23334257&colorPattern=%23476072&fontColor=%23EEEEEE&opacity=0.6)
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.bayudc@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/704845945325748354)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/dev.bayudc)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281229939193)
 
 <!--
 
